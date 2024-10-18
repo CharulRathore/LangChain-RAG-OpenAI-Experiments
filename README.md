@@ -37,7 +37,6 @@ Before setting up the project, ensure you have the following installed:
 
 **Query the Pipeline:**
    Put the file you want to query in docs folder and run the RAG pipeline using:
-
     ```bash
     python multi-doc.py
     ```
