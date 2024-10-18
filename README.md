@@ -24,11 +24,11 @@ This project implements a small Retrieval-Augmented Generation (RAG) pipeline us
 ### Prerequisites
 
 Before setting up the project, ensure you have the following installed:
-    ```bash
+    ```
     pip install requirements.txt
     ```
 
-- Python 3.x
+- Python 3.12
 - A valid OpenAI API key (set up .env file)
 - ChromaDB installed
 
@@ -36,7 +36,7 @@ Before setting up the project, ensure you have the following installed:
 ### Usage
 
 **Query the Pipeline:**
-   Put the file you want to query in docs folder and run the RAG pipeline using:
-    ```bash
+   Put the file you want to query in the 'docs' folder and run the RAG pipeline using:
+    ```
     python multi-doc.py
     ```
