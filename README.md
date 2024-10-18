@@ -1,7 +1,3 @@
-Here's a sample `README.md` for your LangChain Python, ChromaDB, and OpenAI APIs-based RAG pipeline:
-
----
-
 # Retrieval-Augmented Generation (RAG) Pipeline with LangChain, ChromaDB, and OpenAI APIs
 
 ## Overview
